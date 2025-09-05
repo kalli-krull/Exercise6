@@ -1,2 +1,1 @@
-Hólmar og
-aron
+Hólmar 
